@@ -1,0 +1,32 @@
+.body {    
+    background: linear-gradient(rgba(0,233,233,0.5) 100%,rgba(0,233,233,0.5) 100%), url('../images/wp10935261-tata-ipl-wallpapers.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    min-height:100vh;
+}
+.login{    
+    background: linear-gradient(rgba(0,233,233,0.2) 100%,rgba(0,233,233,0.1) 100%), 
+        url('../images/wp10935261-tata-ipl-wallpapers.jpg'); 
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    min-height:100vh;
+}
+
+.dash {
+    min-height:100vh;
+    background: linear-gradient(#d4fdf5c7 100%,#a7f1a740 100%), 
+        url('../images/dd.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+table.table-bordered{
+    border:1px solid black;
+    margin-top:20px;
+  }
+table.table-bordered > thead > tr > th{
+    border:1px solid black;
+}
+table.table-bordered > tbody > tr > td{
+    border:1px solid black;
+}
+
